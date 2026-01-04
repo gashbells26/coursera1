@@ -1,0 +1,11 @@
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.box-color {
+    background-color: lightblue;
+    margin: 10px;
+}
